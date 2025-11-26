@@ -1,0 +1,24 @@
+/* 4. Couleur de fond */
+body {
+    background-color: lightyellow;
+}
+
+/* 6. Sélecteur ID : mettre en gras */
+#second {
+    font-weight: bold;
+}
+
+/* 7. Sélecteur de classe : italique */
+.italic {
+    font-style: italic;
+}
+
+/* 9. Changer la couleur des classes item-highlight */
+.item-highlight {
+    color: blue;
+}
+
+/* 10. Sélecteur d’attribut pour cibler les éléments ayant une classe */
+li[class] {
+    background-color: #e6e6e6;
+}

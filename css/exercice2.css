@@ -1,0 +1,30 @@
+/* 4. Couleur de fond de la section container */
+.container {
+    background-color: lightgray;
+}
+
+/* 6. Style de base pour les box */
+.box {
+    border: 1px solid black;
+    background-color: white;
+}
+
+/* 7. Texte en bleu pour box-highlight */
+.box-highlight {
+    color: blue;
+}
+
+/* 9. Liste ordonnée : couleur des items */
+.list-item {
+    color: green;
+}
+
+/* 10. Ajouter une marge aux div */
+div {
+    margin: 10px;
+}
+
+/* 11. Style des paragraphes */
+p {
+    color: red;
+}
